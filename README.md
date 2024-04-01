@@ -2,7 +2,7 @@ Hello and my name is David Villafranca.<br>
 
 I am a senior Information Technology major, specializing in Network and Information Security, at NJIT. I am a co-founder and current Vice President of the university's cybersecurity club, [NICC](https://njiticc.com/)(NJIT Information and Cybersecurity Club).<br>
 
-This GitHub is to show the various projects that I have done:<br>
+This GitHub is to show the different projects that I have done:<br>
 - Coding Semester homework and project assignments
 - Capture-the-Flag write-ups
 - Capture-the-Flag challenges made by myself
