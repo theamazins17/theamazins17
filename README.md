@@ -4,7 +4,6 @@ I am a senior Information Technology major, specializing in Network and Informat
 
 This GitHub is to show my various different projects that I have done:<br>
 - Coding Semester homework and project assignments
-- Personal projects
 - Capture-the-Flag write-ups
 - Capture-the-Flag challenges made by myself
 
