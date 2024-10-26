@@ -1,4 +1,4 @@
-Hello and my name is David Villafranca.<br>
+Hello and my name is David.<br>
 
 I am a senior Information Technology major, specializing in Network and Information Security, at NJIT. I am a co-founder of the university's cybersecurity club, [NICC](https://njiticc.com/)(NJIT Information and Cybersecurity Club).<br>
 
