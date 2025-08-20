@@ -1,6 +1,6 @@
 Hello and my name is David.<br>
 
-I am a Information Technology graduate, specializing in Network and Information Security, at NJIT. I am a co-founder of the university's cybersecurity club, [NICC](https://njiticc.com/)(NJIT Information and Cybersecurity Club).<br>
+I am an Information Technology graduate, specializing in Network and Information Security, at NJIT. I am a co-founder of the university's cybersecurity club, [NICC](https://njiticc.com/)(NJIT Information and Cybersecurity Club).<br>
 
 This GitHub is to show the different projects that I have done:<br>
 - Coding Semester homework and project assignments
